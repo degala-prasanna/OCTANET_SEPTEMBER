@@ -2,6 +2,8 @@
 
 # India Bite - Restaurant🍝 
 Check out the live demo of the India Bite [here](https://degala-prasanna.github.io/IndiaBite-Restaurant-Page/).
+<br><br>
+Check out the code here of India Bite [here](https://github.com/degala-prasanna/IndiaBite-Restaurant-Page).
 
 ## Food that Speaks to Your Soul 🍽️
 
