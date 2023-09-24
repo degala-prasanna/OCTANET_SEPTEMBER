@@ -9,5 +9,8 @@ Check out the code here of India Bite [here](https://github.com/degala-prasanna/
 # Task-2
 ## To Do List📝
 Check out the live demo of the To-do List [here](https://degala-prasanna.github.io/My-ToDo-List/).
-<br><br>
-Check out the code here of To-do List [here](https://github.com/degala-prasanna/My-ToDo-List).
+<br>
+A small functionality is added to the filter button in Netlify Website. Check out the live demo of the To-do List on Netlify [here](https://my-t0d0-list.netlify.app/).
+<br>
+
+Check out the code here of To-do List [here](https://github.com/degala-prasanna/My-ToDo-List/).
